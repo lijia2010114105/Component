@@ -1,0 +1,20 @@
+PODS:
+  - CTMediator (44)
+  - MGJRouter (0.10.0)
+
+DEPENDENCIES:
+  - CTMediator
+  - MGJRouter
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
+    - MGJRouter
+
+SPEC CHECKSUMS:
+  CTMediator: 933dba523da87bf875e4a7e8728945fbc512f1d2
+  MGJRouter: 15d94541eb2cc81eff7d577337288feb7ae9575f
+
+PODFILE CHECKSUM: 7081f67b5ec77db649d15e34889a88d923004edd
+
+COCOAPODS: 1.10.0

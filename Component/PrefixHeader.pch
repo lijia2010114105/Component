@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  Component
+//
+//  Created by harsons on 2020/12/31.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "MGJRouter.h"
+#import "AModuleMacro.h"
+
+#import "CTMediator.h"
+#import "BModuleMacro.h"
+
+#endif /* PrefixHeader_pch */

@@ -29,7 +29,7 @@
 - (void)setData {
     self.dataArray = @[@[@"A-无参数",@"AA-有参数",@"AAA-参数+block"],
                        @[@"B-无参数",@"BB-有参数",@"BBB-参数+block"]];
-    self.headTitleArray = @[@"MGJRouter", @"CTMediator"];
+    self.headTitleArray = @[@"MGJRouter (url-block)", @"CTMediator (target-action)"];
 }
 
 - (void)createTableView {

@@ -5,4 +5,10 @@ target 'Component' do
     
     pod 'MGJRouter'
     pod 'CTMediator'
+    
+    #//A模块
+    #pod 'AModule'
+    
+    #//B模块
+    #pod 'BModule'
 end
